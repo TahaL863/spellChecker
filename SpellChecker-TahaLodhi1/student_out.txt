@@ -1,0 +1,9 @@
+Word   3, civalized
+Word  60, oportunities
+Word 238, peopl
+Word 393, ettiquitt
+Word 417, shoudl
+Word 420, psudo-code
+Word 442, algorythm
+Document contains 7 error(s).
+There are 512 words in the file.
